@@ -1,0 +1,4 @@
+package com.example.GetRooms.models;
+
+public class BaseModel {
+}
